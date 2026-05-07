@@ -22,3 +22,6 @@ This project analyzes movie data to identify trends in releases, awards, and dur
 - Duration analysis
 
 ## 📷 Dashboard Preview
+
+<img width="1198" height="673" alt="Movie data analysis dashboard pbix" src="https://github.com/user-attachments/assets/23b56021-b6eb-493b-9d2f-273e5baa9175" />
+
